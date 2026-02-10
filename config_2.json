@@ -1,0 +1,12 @@
+{
+    "platforms": [
+      {
+        "url":
+            "https://raw.githubusercontent.com/MBlin91/mynaconfig/refs/heads/main/config_2.json",
+        "timeout": 5000,
+      }
+    ],
+    "urls": ["https://acce-api.mynavpn.com"],
+    "platformsVersion": 1,
+    "urlsVersion": 1,
+  }

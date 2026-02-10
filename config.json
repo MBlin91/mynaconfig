@@ -2,7 +2,7 @@
     "platforms": [
       {
         "url":
-            "https://github.com/MBlin91/mynaconfig/tree/main/config.json",
+            "https://raw.githubusercontent.com/MBlin91/mynaconfig/refs/heads/main/config.json",
         "timeout": 5000,
       },
     ],

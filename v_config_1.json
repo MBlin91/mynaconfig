@@ -1,0 +1,17 @@
+{
+    "platforms": [
+      {
+        "url":
+            "https://raw.githubusercontent.com/MBlin91/mynaconfig/refs/heads/main/v_config_1.json",
+        "timeout": 5000
+      },
+      {
+        "url":
+            "https://www.mynavpn.com/dist_app/v_config_1.json",
+        "timeout": 5000
+      },
+    ],
+    "urls": ["https://myna.greenbackend.org"],
+    "platformsVersion": 1,
+    "urlsVersion": 1,
+  }

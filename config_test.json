@@ -1,0 +1,17 @@
+{
+    "platforms": [
+      {
+        "url":
+            "https://raw.githubusercontent.com/MBlin91/mynaconfig/refs/heads/main/config_test.json",
+        "timeout": 5000
+      },
+      {
+        "url":
+            "https://h5-test-myna.greenbackend.org/dist_app/config_test.json",
+        "timeout": 5000
+      },
+    ],
+    "urls": ["https://test-myna.greenbackend.org"],
+    "platformsVersion": 1,
+    "urlsVersion": 1,
+  }
